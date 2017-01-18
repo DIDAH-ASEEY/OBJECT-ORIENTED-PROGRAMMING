@@ -46,6 +46,21 @@ class Aspirant(Voter):
         print "Aspirant %s is %s years old, Id Number %s from %s is vying for % seat for %s ward" %(self.name,self.age,str(self.id_number),self.residence,self.position,self.ward) 
     
         print "Aspirant's voter number is: %s" %str(self.number)
+
+def main():
+    
+    aseey = Voter()
+    aseey.name = (raw_input("Enter the voters Name: "))
+    aseey.id_number=(raw_input("Enter the voter\'s Id Number: "))
+    aseey.capture_details(raw_input("Enter voter's age: "),raw_input("Enter the voter's residence: "))
+    aseey.generate_voter()
+
+    aseey.print_details()
+
+main()
+
+raw_input("press <enter> to exit")
+    
         
 
     
