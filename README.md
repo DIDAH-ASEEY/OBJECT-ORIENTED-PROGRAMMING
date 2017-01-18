@@ -25,10 +25,10 @@ In order to run the program cloning the repository is necessary hence the need f
 
 3. open the folder and select the file, OOP.py to run the program, the following dialogue will appear and you can enter the required details. ie name, id number, age, residence
    
-![oop](https://cloud.githubusercontent.com/assets/25131942/22077872/07f1fd76-ddc7-11e6-8ef1-7ba6b452533f.PNG)
+  ![oop](https://cloud.githubusercontent.com/assets/25131942/22077872/07f1fd76-ddc7-11e6-8ef1-7ba6b452533f.PNG)
 
 4. After all details have been entered the program will generate a voter number for the voter and display his details.
-![details](https://cloud.githubusercontent.com/assets/25131942/22078090/ed62d9ca-ddc7-11e6-841b-f1e7d88c3a3c.PNG)
+  ![details](https://cloud.githubusercontent.com/assets/25131942/22078090/ed62d9ca-ddc7-11e6-841b-f1e7d88c3a3c.PNG)
 
 5. Press `ENTER` to exit when done
 
