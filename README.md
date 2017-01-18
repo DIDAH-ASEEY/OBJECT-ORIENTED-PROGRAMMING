@@ -31,6 +31,7 @@ In order to run the program cloning the repository is necessary hence the need f
   ![details](https://cloud.githubusercontent.com/assets/25131942/22078090/ed62d9ca-ddc7-11e6-841b-f1e7d88c3a3c.PNG)
 
 5. Press `ENTER` to exit when done
+6. Also you can right click on the file and `open with IDLE` to view the code in python environment.
 
 ##Testing
 The program has been tested using different types, range and values of inputs 
